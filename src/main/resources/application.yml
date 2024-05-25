@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Proyectos
+
+server:
+  port: 5000
